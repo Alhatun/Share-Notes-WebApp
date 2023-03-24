@@ -1,0 +1,112 @@
+C:\projects\shareNotes\shareNotes\bin\shareNotes.dll.config
+C:\projects\shareNotes\shareNotes\bin\shareNotes.dll
+C:\projects\shareNotes\shareNotes\bin\shareNotes.pdb
+C:\projects\shareNotes\shareNotes\bin\roslyn\csc.exe
+C:\projects\shareNotes\shareNotes\bin\roslyn\csc.exe.config
+C:\projects\shareNotes\shareNotes\bin\roslyn\csc.rsp
+C:\projects\shareNotes\shareNotes\bin\roslyn\csi.exe
+C:\projects\shareNotes\shareNotes\bin\roslyn\csi.exe.config
+C:\projects\shareNotes\shareNotes\bin\roslyn\csi.rsp
+C:\projects\shareNotes\shareNotes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\shareNotes\shareNotes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\projects\shareNotes\shareNotes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.AppContext.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Console.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.IO.Compression.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.IO.FileSystem.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.IO.Pipes.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Security.AccessControl.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Security.Claims.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.ValueTuple.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Xml.XPath.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\projects\shareNotes\shareNotes\bin\roslyn\vbc.exe
+C:\projects\shareNotes\shareNotes\bin\roslyn\vbc.exe.config
+C:\projects\shareNotes\shareNotes\bin\roslyn\vbc.rsp
+C:\projects\shareNotes\shareNotes\bin\roslyn\VBCSCompiler.exe
+C:\projects\shareNotes\shareNotes\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\shareNotes\shareNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\shareNotes\shareNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\shareNotes\shareNotes\obj\Debug\shareNotes.csprojAssemblyReference.cache
+C:\projects\shareNotes\shareNotes\obj\Debug\shareNotes.csproj.CoreCompileInputs.cache
+C:\projects\shareNotes\shareNotes\obj\Debug\shareNotes.csproj.CopyComplete
+C:\projects\shareNotes\shareNotes\obj\Debug\shareNotes.dll
+C:\projects\shareNotes\shareNotes\obj\Debug\shareNotes.pdb
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\shareNotes.dll.config
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\shareNotes.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\shareNotes.pdb
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\csc.exe
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\csc.exe.config
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\csc.rsp
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\csi.exe
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\csi.exe.config
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\csi.rsp
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.AppContext.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Console.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.IO.Compression.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.IO.Pipes.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Security.Claims.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.ValueTuple.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\vbc.exe
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\vbc.exe.config
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\vbc.rsp
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\VBCSCompiler.exe
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\obj\Debug\shareNotes.csprojAssemblyReference.cache
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\obj\Debug\shareNotes.csproj.CoreCompileInputs.cache
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\obj\Debug\shareNotes.csproj.CopyComplete
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\obj\Debug\shareNotes.dll
+C:\Users\toto1\OneDrive - جامعة القصيم\Documents\New folder\shareNotes\shareNotes\obj\Debug\shareNotes.pdb
